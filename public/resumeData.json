@@ -73,6 +73,34 @@
                 "level": "70%"
             }
         ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "Library Website",
+                "category": "A simple library application was created using an admin template from AdminLTE.io and using the PHP MySQLI programming language.",
+                "image": "librarypage.png",
+                "url": "https://github.com/fayzaarr/codee-perpus.git"
+            },
+            {
+                "title": "Application Attendance System",
+                "category": "This system is an attendance system application that can detect faces in real time using the Local Binary Pattern Histogram (LBPH) Method and Haar Cascade Classifier for the attendance of employees of PT Elektrindodaya Pakarnusa, Bandung, West Java, Indonesia.",
+                "image": "Picture1.png",
+                "url": "https://github.com/fayzaarr/sistem-absensi-LBPH.git"
+            },
+            {
+                "title": "Portfolio with HMTL CSS Java",
+                "category": "A personal portfolio website to showcase projects, skills, and experiences, built using HTML, CSS, and JavaScript.",
+                "image": "porthtml.png",
+                "url": "https://revou-fundamental-course.github.io/16-sept-24-fayzaarr/" 
+            },
+            {
+                "title": "Portfolio with ReactJS",
+                "category": "A personal portfolio website to showcase projects, skills, and experiences, built using ReactJS.",
+                "image": "portjs.png",
+                "url": "https://github.com/fayzaarr/rfz-react-portfolio.git" 
+            }
+        ] 
     }
     
 }
