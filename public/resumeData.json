@@ -2,8 +2,21 @@
     "main":{
         "name" : "Rifasya Ayu Nurfayza",
         "description": "I am a Fresh Graduate in Informatics with a passion for growing skills as a Frontend Engineer & Data Scientist",
-        "image":"profimage.jpg",
+        "image":"profpic.jpg",
         "github":"https://github.com/fayzaarr",
-        "project":"https://github.com/fayzaarr"
+        "project":"https://github.com/fayzaarr",
+        "bio": "Ini adalah section biografi aku",
+        "contactmessage":"You can contact me if you interested to coop with me",
+        "email": "nurfayza.rr@gmail.com",
+        "phone": "877-1234-5678",
+        "address":{
+            "street":"Jl Sadang Luhur",
+            "city":"Bandung",
+            "state":"West Java",
+            "zip": "40134"
+        },
+        "website": "https://github.com/fayzaarr",
+        "resumedownload":"https://github.com/fayzaarr"
+
     }
 }
