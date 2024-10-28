@@ -16,7 +16,24 @@
             "zip": "40134"
         },
         "website": "https://github.com/fayzaarr",
-        "resumedownload":"https://github.com/fayzaarr"
+        "resumedownload":"https://github.com/fayzaarr",
+        "social":[
+          {
+            "name":"linkedin",
+            "url":"https://www.linkedin.com/in/rifasyaanr/",
+            "className":"fa fa-linkedin"
+          },
+          {
+            "name":"instagram",
+            "url":"https://www.instagram.com/rfssyar_?igsh=ZnZ5Z3RrbGM5Mnhm",
+            "className":"fa fa-instagram"
+          },
+          {
+            "name":"github",
+            "url":"https://github.com/fayzaarr",
+            "className":"fa fa-github"
+          }
+        ]
     },
     "resume": {
         "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
